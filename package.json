@@ -1,0 +1,22 @@
+{
+  "name": "week-4",
+  "version": "1.0.0",
+  "description": "week-4 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelcase1/FSW-105.git"
+  },
+  "author": "michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelcase1/FSW-105/issues"
+  },
+  "homepage": "https://github.com/michaelcase1/FSW-105#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
